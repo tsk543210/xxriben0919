@@ -16,4 +16,4 @@
 
 同时，优质平台还会对影片进行详细的分类，以便用户快速找到自己喜欢的内容。常见的分类包括“女优专辑”、“剧情片”、“高清专区”等，帮助用户提高查找效率。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0919)</span>
